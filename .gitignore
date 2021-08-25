@@ -3,3 +3,5 @@ pytorch_advanced/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 */**/.ipynb_checkpoints/
+cifar10/
+hymenoptera_data/
